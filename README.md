@@ -15,27 +15,17 @@ I’m using it to:
 Quick Sort is a divide-and-conquer sorting algorithm used to sort an array with recursion;
 It works by selecting a pivot element, partitioning the array into elements less than and greater than the pivot, and then recursively sorting the subarrays.
 
-#### Time complexity
-* O(n2) - This is the true worst-case scenario.
-
-  
-* O(n log n) - When using a random pivot or a middle pivot, it is extremely unlikely to fall into the O(n²) case.
-
-#### Space Complexity
-* O(log n)
-Due to recursive function calls (call stack).
+* Time complexity: O(n2) or O(n log n) (When using a random pivot or a middle pivot, it is extremely unlikely to fall into the O(n²) case.).
 
 
-* O(n)
-When recursion becomes highly unbalanced
+* Space Complexity: O(log n) or O(n) (when recursion becomes highly unbalanced)
 
 ### Bubble Sort
 Bubble sort is a simple sorting algorithm used to sort arrays.
 It works by repeatedly passing through the array, comparing adjacent elements and swapping them if they are in the wrong order.
 This process continues until the array is fully sorted.
 
-#### Time complexity
-* O(n2)
+* Time complexity: O(n2)
 
-#### Space Complexity
-* O(n)
+
+* Space Complexity: O(n)
