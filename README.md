@@ -1,7 +1,16 @@
+# DSA Studies 📚
+
+This repository is for my personal **Data Structures & Algorithms (DSA)** practice.
+
+I’m using it to:
+- Implement algorithms
+- Solve problems (e.g., LeetCode)
+- Study and practice DSA concepts
+
 ## Leetcode
 --
 
-## Sorting
+## Sorting - Algorithms
 ### Quick Sort
 Quick Sort is a divide-and-conquer sorting algorithm used to sort an array;
 
