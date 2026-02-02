@@ -41,6 +41,7 @@ Each key is mapped to a value, allowing fast insertion, retrieval and deletion o
 Implementation of a [Linked List](data_structures/linked_list.py)
 
 A Linked List is a linear data strcuture composed of nodes, where each noed stores a value and a reference to the next node in memory.
+Unlike arrays, linked lists do not store elements contiguously in memory.
 
 * Insert: O(1)
 * Delete: O(n)
