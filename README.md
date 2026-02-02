@@ -37,6 +37,15 @@ Each key is mapped to a value, allowing fast insertion, retrieval and deletion o
 * Delete: O(1)
 * Get: O(1)
 
+### Linked List
+Implementation of a [Linked List](data_structures/linked_list.py)
+
+A Linked List is a linear data strcuture composed of nodes, where each noed stores a value and a reference to the next node in memory.
+
+* Insert: O(1)
+* Delete: O(n)
+* Get: O(n)
+
 ## Leetcode
 
 #todo
