@@ -49,4 +49,12 @@ Unlike arrays, linked lists do not store elements contiguously in memory.
 
 ## Leetcode
 
-#todo
+1. Two-sum ([Code](algorithms/leetcode/1.two-sum.java), [Submission](https://leetcode.com/problems/two-sum/submissions/1815491596))
+9. Palindrome-number ([Code](algorithms/leetcode/9.palindrome-number.cpp), [Submission](https://leetcode.com/problems/palindrome-number/submissions/1807098243/))
+557. Reverse-words-in-a-string-iii ([Code](algorithms/leetcode/557.reverse-words-in-a-string-iii.py), [Submission](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1852114497/))
+1071. Greatest-common-divisor-of-strings ([Code](algorithms/leetcode/1071.greatest-common-divisor-of-strings.cpp), [Submission](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1780323175/))
+1431. Kids-with-the-greatest-number-of-Candies ([Code](algorithms/leetcode/1431.kids-with-the-greatest-number-of-candies.cpp), [Submission](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1780345966/))
+1768. Merge-strings-alternately.cpp([Code](algorithms/leetcode/1768.merge-strings-alternately.cpp), [Submission](https://leetcode.com/problems/merge-strings-alternately/submissions/1775156061/))
+1935. Maximum-number-of-words-you-can-type.cpp ([Code](algorithms/leetcode/1935.maximum-number-of-words-you-can-type.cpp), [Submission](https://leetcode.com/problems/maximum-number-of-words-you-can-type/submissions/1772905817/))
+2703. Return-length-of-arguments-passed.cpp ([Code](algorithms/leetcode/2703.return-length-of-arguments-passed.cpp), [Submission](https://leetcode.com/problems/return-length-of-arguments-passed/submissions/1775128552/))
+3090. Maximum-length-substring-with-two-occurrences ([Code](algorithms/leetcode/3090.maximum-length-substring-with-two-occurrences.cpp), [Submission](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/submissions/1864471121/))

@@ -53,4 +53,3 @@ print(hashmap.get("hammes"))
 
 #resizing
 #linked-list
-#doc
