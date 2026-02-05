@@ -47,7 +47,7 @@ Unlike arrays, linked lists do not store elements contiguously in memory.
 * Delete: O(n)
 * Get: O(n)
 
-## Leetcode's
+## Leetcode
 This repository contains my accepted solutions to various **LeetCode problems**, implemented in different programming languages.  
 Each problem includes a direct link to the source code and the official submission.
 
