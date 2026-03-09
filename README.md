@@ -56,31 +56,31 @@ Each problem includes a direct link to the source code and the official submissi
 ### 📚 Problems Solved
 
 - **1. Two Sum**  
-[Code](algorithms/leetcode/1.two-sum.java) 
+[Code](algorithms/.leetcode/1.two-sum.java) 
 
 - **9. Palindrome Number**  
-[Code](algorithms/leetcode/9.palindrome-number.cpp) 
+[Code](algorithms/.leetcode/9.palindrome-number.cpp) 
 
 - **557. Reverse Words in a String III**  
-[Code](algorithms/leetcode/557.reverse-words-in-a-string-iii.py) 
+[Code](algorithms/.leetcode/557.reverse-words-in-a-string-iii.py) 
 
 - **557. Can Place Flowers**  
-[Code](algorithms/leetcode/605.can-place-flowers.py) 
+[Code](algorithms/.leetcode/605.can-place-flowers.py) 
 
 - **1071. Greatest Common Divisor of Strings**  
-[Code](algorithms/leetcode/1071.greatest-common-divisor-of-strings.cpp) 
+[Code](algorithms/.leetcode/1071.greatest-common-divisor-of-strings.cpp) 
 
 - **1431. Kids With the Greatest Number of Candies**  
-[Code](algorithms/leetcode/1431.kids-with-the-greatest-number-of-candies.cpp) 
+[Code](algorithms/.leetcode/1431.kids-with-the-greatest-number-of-candies.cpp) 
 
 - **1768. Merge Strings Alternately**  
-[Code](algorithms/leetcode/1768.merge-strings-alternately.cpp) 
+[Code](algorithms/.leetcode/1768.merge-strings-alternately.cpp) 
 
 - **1935. Maximum Number of Words You Can Type**  
-[Code](algorithms/leetcode/1935.maximum-number-of-words-you-can-type.cpp) 
+[Code](algorithms/.leetcode/1935.maximum-number-of-words-you-can-type.cpp) 
 
 - **2703. Return Length of Arguments Passed**  
-[Code](algorithms/leetcode/2703.return-length-of-arguments-passed.cpp) 
+[Code](algorithms/.leetcode/2703.return-length-of-arguments-passed.cpp) 
 
 - **3090. Maximum Length Substring With Two Occurrences**  
-[Code](algorithms/leetcode/3090.maximum-length-substring-with-two-occurrences.cpp)
+[Code](algorithms/.leetcode/3090.maximum-length-substring-with-two-occurrences.cpp)
