@@ -51,31 +51,36 @@ Unlike arrays, linked lists do not store elements contiguously in memory.
 This repository contains my accepted solutions to various **LeetCode problems**, implemented in different programming languages.  
 Each problem includes a direct link to the source code and the official submission.
 
+* My account: [leetcode.com/u/yhammes](https://leetcode.com/u/yhammes/)
+
 ### 📚 Problems Solved
 
 - **1. Two Sum**  
-[Code](algorithms/leetcode/1.two-sum.java) · [Submission](https://leetcode.com/problems/two-sum/submissions/1815491596)
+[Code](algorithms/leetcode/1.two-sum.java) 
 
 - **9. Palindrome Number**  
-[Code](algorithms/leetcode/9.palindrome-number.cpp) · [Submission](https://leetcode.com/problems/palindrome-number/submissions/1807098243/)
+[Code](algorithms/leetcode/9.palindrome-number.cpp) 
 
 - **557. Reverse Words in a String III**  
-[Code](algorithms/leetcode/557.reverse-words-in-a-string-iii.py) · [Submission](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1852114497/)
+[Code](algorithms/leetcode/557.reverse-words-in-a-string-iii.py) 
+
+- **557. Can Place Flowers**  
+[Code](algorithms/leetcode/605.can-place-flowers.py) 
 
 - **1071. Greatest Common Divisor of Strings**  
-[Code](algorithms/leetcode/1071.greatest-common-divisor-of-strings.cpp) · [Submission](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1780323175/)
+[Code](algorithms/leetcode/1071.greatest-common-divisor-of-strings.cpp) 
 
 - **1431. Kids With the Greatest Number of Candies**  
-[Code](algorithms/leetcode/1431.kids-with-the-greatest-number-of-candies.cpp) · [Submission](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1780345966)
+[Code](algorithms/leetcode/1431.kids-with-the-greatest-number-of-candies.cpp) 
 
 - **1768. Merge Strings Alternately**  
-[Code](algorithms/leetcode/1768.merge-strings-alternately.cpp) · [Submission](https://leetcode.com/problems/merge-strings-alternately/submissions/1775156061)
+[Code](algorithms/leetcode/1768.merge-strings-alternately.cpp) 
 
 - **1935. Maximum Number of Words You Can Type**  
-[Code](algorithms/leetcode/1935.maximum-number-of-words-you-can-type.cpp) · [Submission](https://leetcode.com/problems/maximum-number-of-words-you-can-type/submissions/1772905817)
+[Code](algorithms/leetcode/1935.maximum-number-of-words-you-can-type.cpp) 
 
 - **2703. Return Length of Arguments Passed**  
-[Code](algorithms/leetcode/2703.return-length-of-arguments-passed.cpp) · [Submission](https://leetcode.com/problems/return-length-of-arguments-passed/submissions/1775128552)
+[Code](algorithms/leetcode/2703.return-length-of-arguments-passed.cpp) 
 
 - **3090. Maximum Length Substring With Two Occurrences**  
-[Code](algorithms/leetcode/3090.maximum-length-substring-with-two-occurrences.cpp) · [Submission](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/submissions/1864471121)
+[Code](algorithms/leetcode/3090.maximum-length-substring-with-two-occurrences.cpp)
