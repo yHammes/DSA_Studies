@@ -61,10 +61,16 @@ Each problem includes a direct link to the source code and the official submissi
 - **9. Palindrome Number**  
 [Code](algorithms/.leetcode/9.palindrome-number.cpp) 
 
+- **151. Reverse Words In a String**  
+[Code](algorithms/.leetcode/151.reverse-words-in-a-string.py) 
+
+- **345. Reverse Vowels Of a String**  
+[Code](algorithms/.leetcode/345.reverse-vowels-of-a-string.py) 
+
 - **557. Reverse Words in a String III**  
 [Code](algorithms/.leetcode/557.reverse-words-in-a-string-iii.py) 
 
-- **557. Can Place Flowers**  
+- **605. Can Place Flowers**  
 [Code](algorithms/.leetcode/605.can-place-flowers.py) 
 
 - **1071. Greatest Common Divisor of Strings**  
